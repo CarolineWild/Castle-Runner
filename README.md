@@ -1,4 +1,4 @@
-# Castle-Runner
+# Castle_Runner
 GameMaker (GML) racing/platformer game
 
 Small game built in GameMaker Studio 2 based on the prompt: Racing game - Sci-Fi - in a Miyazaki inspired world
